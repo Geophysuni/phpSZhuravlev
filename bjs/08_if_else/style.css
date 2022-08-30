@@ -2,3 +2,8 @@
     height: 100vh;
     font-family: 'Open Sans', monospace;
 }
+
+.hidingContainer{
+    padding-left: 50%;
+    padding-right: 50%;
+}

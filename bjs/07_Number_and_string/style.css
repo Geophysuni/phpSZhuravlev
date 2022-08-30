@@ -6,4 +6,14 @@
 .input-window {
     text-align: end;
     font-size: x-large;
+    margin-bottom: 10px;
+}
+
+
+.mainPanel{
+    margin-top: 10px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-column-gap: 5px; /* space between columns, change as needed */
+    grid-row-gap: 10px;
 }
